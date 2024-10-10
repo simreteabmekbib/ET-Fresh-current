@@ -7,6 +7,5 @@ export default defineConfig({
   base: '/ET-Fresh-current/frontend/',
   build: {
     outDir: 'dist', // Ensure the output directory is set to 'dist'
-    assetsDir: 'dist/assets'
   },
 })
